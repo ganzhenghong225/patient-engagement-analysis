@@ -65,7 +65,7 @@ Social factors did not strongly explain drop-off behavior
 
 ### Visualization  
 
-![Boxplot](drop box.png)
+![Boxplot](drop%20box.png)
 
 > Drop-off patients exhibit more irregular visit patterns compared to high-engagement patients.
 
