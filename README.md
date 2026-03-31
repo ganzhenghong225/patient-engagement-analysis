@@ -73,7 +73,7 @@ Social factors did not strongly explain drop-off behavior
 
 ### Visualization  
 
-![Boxplot](drop%20box.png)
+![Boxplot](boxplot.png)
 
 > Drop-off patients exhibit more irregular visit patterns compared to high-engagement patients.
 
@@ -103,6 +103,12 @@ Social factors did not strongly explain drop-off behavior
 - Built visualizations and interpreted behavioral patterns  
 - Analyzed clinical and social factors influencing patient engagement  
 - Generated actionable recommendations based on data insights  
+
+---
+
+### Summary  
+
+Analyzed 7M+ healthcare records to identify patient drop-off patterns and uncover clinical drivers of engagement, providing actionable recommendations to improve care continuity.
 
 ---
 
