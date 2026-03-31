@@ -63,6 +63,14 @@ Social factors did not strongly explain drop-off behavior
 
 ---
 
+### Results  
+
+- Identified over 10,000 drop-off patients with inconsistent care patterns  
+- Discovered visit gaps of up to ~178 days  
+- Demonstrated that engagement is more strongly influenced by clinical urgency than social factors
+
+  ---
+
 ### Visualization  
 
 ![Boxplot](drop%20box.png)
