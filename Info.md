@@ -1,6 +1,6 @@
-## 📊 Patient Engagement & Drop-off Analysis (DataFest 2026)
+## Patient Engagement & Drop-off Analysis (DataFest 2026)
 
-### 🔍 Overview  
+### Overview  
 This project analyzes patient journey data to understand why some patients consistently return for care while others disengage after only a few visits.  
 
 Using a large-scale healthcare dataset (~7M+ records), this analysis identifies patterns in patient behavior and explores clinical and social factors influencing care continuity.
